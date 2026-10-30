@@ -397,18 +397,7 @@
       transform: translateY(-3px);
     }
 
-    /* ========== Footer ========== */
-    footer {
-      background: #0f0f0f;
-      text-align: center;
-      padding: 2.5rem 9%;
-      border-top: 1px solid rgba(183, 75, 75, 0.2);
-    }
-
-    footer p {
-      font-size: 1.5rem;
-      color: #888;
-    }
+   
 
     footer p span {
       color: #b74b4b;
